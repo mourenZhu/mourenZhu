@@ -15,12 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mourenZhu&show_icons=true&count_private=true&theme=radical">
+-->
 
 - 🔭 23届本科应届生
 - 🌱 研究方向：嵌入式软件开发|OpenWRT|C
 - 😄 欢迎一起交流
 
-<br/><br/><br/><br/>
+<br/><br/>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mourenZhu&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mourenZhu&layout=compact&theme=radical&hide_border=true&hide=javascript,html" /> |
+| ------------- | ------------- |
 
 <div align="right">You are the <img src="https://profile-counter.glitch.me/mourenZhu/count.svg">th visitor.</div>
+
