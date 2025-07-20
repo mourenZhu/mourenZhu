@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mourenZhu&show_icons=true&count_private=true&theme=radical">
 -->
 
-- 🔭 23届本科应届生
 - 🌱 研究方向：嵌入式软件开发|OpenWRT|C
 - 😄 欢迎一起交流
 
